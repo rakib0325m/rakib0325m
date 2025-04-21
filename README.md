@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hey there, I'm Rakib Hossain
 
-<!--
-**rakib0325m/rakib0325m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | BUBT  
+💻 Full-Stack Developer | Problem Solver | Visionary Technologist  
+🌐 I build seamless web experiences with a passion for clean, elegant code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 Currently working on: Full-stack web projects, app development & screen recording tools
+- 🌱 Currently learning: Advanced React.js, System Design, DevOps Basics
+- 💡 Always exploring: New tech trends, innovative tools, and elegant architectures
+- 💬 Ask me about: Web development, JavaScript, React, Node.js, MongoDB, and the art of writing clean code
+- ⚡ Fun fact: I believe semicolons are optional—but good syntax is not 😄
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**  
+`HTML` `CSS` `JavaScript` `React.js` `Redux` `Tailwind CSS`
+
+**Backend**  
+`Node.js` `Express.js`
+
+**Databases**  
+`MongoDB` `MySQL`
+
+**Tools & Platforms**  
+`Git` `GitHub` `VS Code` `Postman` `Vercel` `Netlify`
+
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
+📧 Email: your-email@example.com  
+🌍 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+
+---
+
+> _"Code is poetry. And I'm just getting started."_ ✨
