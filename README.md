@@ -35,8 +35,8 @@
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
-📧 Email: your-email@example.com  
-🌍 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+📧 Email: rakibhossain0325@gmail.com
+🌍 Portfolio: [your-portfolio-link.com](https://www.linkedin.com/in/rakib-hossain-540a43203/)
 
 ---
 
